@@ -193,9 +193,3 @@ and run all cells.
 - Python Data Science Stack
 
 ---
-
-## 👤 Author
-
-**Prakash**
-
-Feel free to connect or raise issues for suggestions and improvements.
