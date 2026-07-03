@@ -1,7 +1,6 @@
 # 🏦 Bank Customer Churn Prediction
 
 An end-to-end Machine Learning project that predicts whether a bank customer is likely to churn based on demographic and behavioral features. The project focuses on data preprocessing, exploratory analysis, handling class imbalance, model comparison, and hyperparameter optimization to build a reliable classification model.
-
 ---
 
 ## 📌 Project Overview
